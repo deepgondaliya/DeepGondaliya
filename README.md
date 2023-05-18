@@ -1,16 +1,18 @@
-### Hi there 👋
+Task_2_Problem_Statement_1-Excel
 
-<!--
-**deepgondaliya/DeepGondaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Part 1
+As a data analysis intern, you are provided with a general store transaction dataset. You are supposed to do the following operations.
+1)Draw a Pivot table to get the different types of outlets and their counts
+2)Draw a Pivot table to get the total sales for different outlets
+3)Draw a Pivot table to find out the total sales of different item types in different outlet types 4)In the third Pivot table, filter out (remove) low-fat products
+5)Add slicers for item fat and item type in the last Pivot table
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Part 2
+Create the financial dashboard:
+As a data analysis intern, you are provided with the Profit and Loss statement of a company for the year 2020.
+1)Create a line graph for profit and profit margin for different years.
+2)Column chart for historical revenue.
+3)Pie chart for expense breakup
+4)Main expenditure item Target vs achieved
+5)Create chats of other metrics you feel are important.
